@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "sample-auth-next-ts",
+    "site": "sample-auth-ts",
     "public": "build",
     "ignore": [
       "firebase.json",
